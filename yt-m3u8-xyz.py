@@ -2,13 +2,13 @@ import os
 import requests
 
 playlists = {
-    "ulusalkanal.m3u8": "https://yt.tecostream.xyz/live/ulusalkanal",
-    "beinsportshaber.m3u8": "https://yt.tecostream.xyz/live/beinsportshaber",
-    "cnnturk.m3u8": "https://yt.tecostream.xyz/live/cnnturk",
-    "ekoturk.m3u8": "https://yt.tecostream.xyz/live/ekoturk",
-    "krttv.m3u8": "https://yt.tecostream.xyz/live/krttv",
-    "ahaber.m3u8": "https://yt.tecostream.xyz/live/ahaber",
-    "sozcutelevizyonu.m3u8": "https://yt.tecostream.xyz/live/sozcutelevizyonu",
+    "streams/ulusalkanal.m3u8": "https://yt.tecostream.xyz/live/ulusalkanal",
+    "streams/beinsportshaber.m3u8": "https://yt.tecostream.xyz/live/beinsportshaber",
+    "streams/cnnturk.m3u8": "https://yt.tecostream.xyz/live/cnnturk",
+    "streams/ekoturk.m3u8": "https://yt.tecostream.xyz/live/ekoturk",
+    "streams/krttv.m3u8": "https://yt.tecostream.xyz/live/krttv",
+    "streams/ahaber.m3u8": "https://yt.tecostream.xyz/live/ahaber",
+    "streams/sozcutelevizyonu.m3u8": "https://yt.tecostream.xyz/live/sozcutelevizyonu",
 }
 
 headers = {
